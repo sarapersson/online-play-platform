@@ -1,6 +1,5 @@
 # Online Play Platform 🚧
 
-- **Codename:** Project Beacon
 - **Demo scenario:** Tiny Worlds Online
 - **Tagline:** Tiny world, serious backend.
 
